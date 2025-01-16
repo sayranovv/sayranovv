@@ -1,5 +1,3 @@
-# eldarka sayranov!
-
 ## about me
 
 - i'm from Perm, Russia
