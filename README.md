@@ -1,6 +1,6 @@
 ## about me
 
-- i'm from Perm, Russia
+- i'm from perm, russia
 - 19 y.o.
 - psu student
 - beginner frontend dev
