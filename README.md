@@ -1,5 +1,3 @@
-![Сайранов_page-0001](https://github.com/user-attachments/assets/46815dab-cffa-427e-9a5a-6741594832e4)
-
 ## Main stack
 <img src="https://img.shields.io/badge/vue-1F2328?style=for-the-badge&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/nuxt-1F2328?style=for-the-badge&logo=nuxt&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-1F2328?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/pinia-1F2328?style=for-the-badge&logo=pinia&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-1F2328?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/vite-1F2328?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-1F2328?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-1F2328?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-1F2328?style=for-the-badge&logo=javascript&logoColor=white"/> 
 
@@ -8,3 +6,5 @@
 
 ## Learning now
   <img src="https://img.shields.io/badge/angular-1F2328?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-1F2328?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+![Сайранов_page-0001](https://github.com/user-attachments/assets/46815dab-cffa-427e-9a5a-6741594832e4)
