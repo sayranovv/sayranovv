@@ -6,5 +6,3 @@
 
 ## Learning now
   <img src="https://img.shields.io/badge/angular-1F2328?style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-1F2328?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-![Сайранов_page-0001](https://github.com/user-attachments/assets/46815dab-cffa-427e-9a5a-6741594832e4)
