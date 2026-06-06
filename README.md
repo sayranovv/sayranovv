@@ -79,4 +79,4 @@ I build modern web applications with a strong focus on thoughtful architecture, 
 
 [LinkedIn](https://www.linkedin.com/in/eldar-sayranov-368776414) · [sayranoveldar@icloud.com](mailto:sayranoveldar@icloud.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4E9D8,100:D8C7AA&height=110&section=footer&text=Always learning, always refining the craft&fontSize=16&fontColor=1F2328&animation=fadeIn" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4E9D8,100:D8C7AA&height=110&section=footer&text=Always%20learning,%20always%20refining%20the%20craft&fontSize=16&fontColor=1F2328&animation=fadeIn" alt="" width="100%" />
